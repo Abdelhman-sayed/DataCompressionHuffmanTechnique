@@ -15,3 +15,5 @@ The Huffman algorithm is a widely used compression algorithm developed by David 
 6. **Generate Huffman Codes Table (Optional):** Create a table mapping characters to their Huffman codes for use during decompression.
 
 This process results in a compressed representation of the input data, with shorter codes for more frequently occurring characters.
+
+please change the directory of bin file in compress process and original file in decompress process in HelloApplication.java that contain GUI.
